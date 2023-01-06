@@ -32,12 +32,12 @@ palette = "gruvbox-light"
         name = "People"
         url = "/person/"
         weight = 30
-
-    [[menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/project/"
-        weight = 40
+#
+#    [[menu.main]]
+#        identifier = "projects"
+#        name = "Projects"
+#        url = "/project/"
+#        weight = 40
 
     [[menu.main]]
         identifier = "apply"
