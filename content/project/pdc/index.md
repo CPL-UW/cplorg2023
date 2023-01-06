@@ -8,5 +8,5 @@ url_project = "http://web.archive.org/web/20180201003022/http://playdataconsorti
 external_link = true
 topics = []
 link = "http://playdataconsortium.org/"
-projectshot = "/img/p_pdc.png"
+projectshot = "image.png"
 +++

@@ -8,5 +8,5 @@ url_project = "https://dl.acm.org/doi/10.1145/3078072.3084335"
 external_link = true
 topics = []
 link = ""
-projectshot = "/img/p_connectedspaces.png"
+projectshot = "image.png"
 +++

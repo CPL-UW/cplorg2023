@@ -10,6 +10,15 @@
 .headshot__image {
     border-radius: 20px;
     height: 230px;
+    object-fit: contain;
+}
+
+
+.project__image {
+    border-radius: 20px;
+    width: 260px;
+    height: 195px;
+    object-fit: contain;
 }
 
 .person__grid {

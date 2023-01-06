@@ -5,5 +5,5 @@ draft = true
 tags = []
 title = "board games for learning"
 topics = []
-projectshot = "/img/p_pandemic.jpg"
+projectshot = "image.jpg"
 +++

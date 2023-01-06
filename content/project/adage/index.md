@@ -7,5 +7,5 @@ title = "ADAGE"
 url_project = "https://github.com/wids-eria/ADAGE"
 external_link = true
 topics = []
-projectshot = "/img/p_adage.jpg"
+projectshot = "image.jpg"
 +++

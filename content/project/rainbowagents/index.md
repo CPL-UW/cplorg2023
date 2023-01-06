@@ -6,5 +6,5 @@ tags = []
 title = "rainbow agents"
 url_project = "/projects/rainbow-agents"
 topics = []
-projectshot = "/img/p_rainbowagents.png"
+projectshot = "image.png"
 +++

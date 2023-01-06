@@ -7,5 +7,5 @@ title = "oztoc"
 url_project = "https://learninggamesnetwork.org/microsites/oztoc/"
 external_link = true
 topics = []
-projectshot = "/img/p_oztoc.jpg"
+projectshot = "image.jpg"
 +++

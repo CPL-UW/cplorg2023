@@ -7,5 +7,5 @@ title = "ecoLENS dashboard"
 url_project = "https://scholar.harvard.edu/josephmreilly/lens"
 external_link = true
 topics = []
-projectshot = "/img/p_ecolens.png"
+projectshot = "image.png"
 +++

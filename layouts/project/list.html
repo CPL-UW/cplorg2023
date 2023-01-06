@@ -10,11 +10,11 @@
     {{ range .Pages }}
     <article class="post">
         <header class="post__header">
-            <p> {{ if (isset .Params "link")}} <a href="{{.Params.link}}"> {{ end }}
-                <img src="{{ .Permalink }}/{{ .Params.image }}" alt="{{ .Title | markdownify}}"
-                    class="headshot__image"><br>
+            <p> {{ if (isset .Params "url_project")}} <a href="{{.Params.url_project}}"> {{ end }}
+                <img src="{{ .Permalink }}/{{.Params.projectshot}}" alt="{{ .Title | markdownify}}"
+                    class="project__image"><br>
                 {{lower .Title | markdownify }}
-                {{ if (isset .Params "link")}} </a> {{ end }}
+                {{ if (isset .Params "url_project")}} </a> {{ end }}
         </header>
     </article>
     {{ end }}

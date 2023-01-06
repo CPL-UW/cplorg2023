@@ -8,5 +8,5 @@ url_project = "https://github.com/CPL-UW/pdcny_tradewars"
 external_link = true
 topics = []
 link = "https://github.com/CPL-UW/pdcny_tradewars"
-projectshot = "/img/leadcaravan.png"
+projectshot = "image.png"
 +++

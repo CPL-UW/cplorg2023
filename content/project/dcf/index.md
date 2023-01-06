@@ -8,5 +8,5 @@ url_project = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1549112"
 external_link = true
 topics = []
 link = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1549112"
-projectshot = "/img/dcf_logo.png"
+projectshot = "image.png"
 +++
