@@ -1,0 +1,11 @@
+{{ define "main" }}
+    <ul>
+    {{ range .Pages }}
+    <article class="apply">
+        <header class="apply__header">
+            <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a><br></li>
+        </header>
+    </article>
+    {{ end }}
+    </ul>
+{{ end }}

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<header class="content__header">
+    <h1>{{ .Title | markdownify }}</h1>
+    {{ .Content }}
+</header>
+
+
+
+<div class="person__grid">
+    {{ range .Pages }}
+    <article class="post">
+        <header class="post__header">
+            <p> {{ if (isset .Params "link")}} <a href="{{.Params.link}}"> {{ end }}
+                <img src="{{ .Permalink }}/{{ .Params.image }}" alt="{{ .Title | markdownify}}"
+                    class="headshot__image"><br>
+                {{lower .Title | markdownify }}
+                {{ if (isset .Params "link")}} </a> {{ end }}
+        </header>
+    </article>
+    {{ end }}
+</div>
+
+{{ end }}

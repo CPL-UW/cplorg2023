@@ -1,0 +1,56 @@
+#baseURL = 'https://complexplay.org/'
+baseURL = 'http://localhost:8000/'
+languageCode = 'en-us'
+title = 'complex play lab'
+theme = 'risotto'
+about = 'complex play lab main'
+
+[params]
+noindex = false
+date_format = "2006-01-02T00:00:00"
+
+[params.theme]
+palette = "gruvbox-light"
+#palette = "base16-light"
+
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 10
+
+    [[menu.main]]
+        identifier = "papers"
+        name = "Papers"
+        url = "/paper/"
+        weight = 20
+
+    [[menu.main]]
+        identifier = "people"
+        name = "People"
+        url = "/person/"
+        weight = 30
+
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/project/"
+        weight = 40
+
+    [[menu.main]]
+        identifier = "apply"
+        name = "Apply"
+        url = "/apply/"
+        weight = 50
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true

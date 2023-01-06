@@ -1,0 +1,29 @@
+.page__logo-inner:after {
+    content: "]";
+    color: var(--bg);
+}
+
+.paper {
+    text-decoration: none;
+}
+
+.headshot__image {
+    border-radius: 20px;
+    height: 230px;
+}
+
+.person__grid {
+    column-width: 200px;
+}
+
+.post__header {
+    width: 200px;
+    height: 300px;
+}
+
+.post {
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    break-inside: avoid;
+    column-break-inside: avoid;
+}

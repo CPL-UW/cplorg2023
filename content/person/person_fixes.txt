@@ -1,0 +1,6 @@
+parallel mkdir `echo {.}` ::: *.md 
+parallel mv {} {.}/index.md ::: *.md 
+parallel mv {} {//}/headshot.jpg ::: */*.jpg
+parallel mv {} {//}/headshot.png ::: */*.png
+parallel "sed -e 's/headshot = .*\./headshot = \"headshot./' {} > {}.new" ::: */index.md
+parallel mv -f {} {.} ::: */index.md.new 
