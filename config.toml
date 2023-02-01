@@ -1,9 +1,13 @@
 #baseURL = 'https://complexplay.org/'
-baseURL = 'http://localhost:8000/'
+#baseURL = 'http://localhost:8000/'
+baseURL = ''
+relativeURLs = true
 languageCode = 'en-us'
 title = 'complex play lab'
 theme = 'risotto'
 about = 'complex play lab main'
+
+pluralizelisttitles = false
 
 [params]
 noindex = false
