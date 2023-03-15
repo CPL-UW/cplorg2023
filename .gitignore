@@ -17,7 +17,6 @@ $RECYCLE.BIN/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
-/themes
 
 # Executable may be added to repository
 hugo.exe
