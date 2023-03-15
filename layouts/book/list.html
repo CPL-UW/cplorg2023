@@ -7,15 +7,16 @@
 
 {{ range sort (.Pages.GroupByParam "role")}}
     <h2>{{ .Key }}</h2>
-<div class="person__grid">
+<br>
+<div class="book__grid">
     {{ range .Pages }}
     <article class="post">
-        <header class="post__header">
-            <p> {{ if (isset .Params "url_person")}} <a href="{{.Params.url_person}}"> {{ end }}
+        <header class="book__header">
+            <p> {{ if (isset .Params "url_book")}} <a href="{{.Params.url_book}}"> {{ end }}
                 <img src="{{ .Permalink }}/{{ .Params.image }}" alt="{{ .Title | markdownify}}"
-                    class="headshot__image"><br>
-                {{lower .Title | markdownify }}
-                {{ if (isset .Params "url_person")}} </a> {{ end }}
+                    class="bookcover__image"><br>
+<!--                {{lower .Title | markdownify }}-->
+                {{ if (isset .Params "url_book")}} </a> {{ end }}
         </header>
     </article>
     {{ end }}
