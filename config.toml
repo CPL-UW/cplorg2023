@@ -8,7 +8,7 @@ theme = 'risotto'
 about = 'complex play lab main'
 
 pluralizelisttitles = false
-
+googleAnalytics = 'G-NV0ESM282M'
 [params]
 noindex = false
 date_format = "2006-01-02T00:00:00"
