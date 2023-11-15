@@ -1,6 +1,7 @@
 import json, sys, os
 from IPython.core.display import HTML
-data = json.load(open("./cites.json","r+"))
+
+
 
 def make_author_string(cite):
     output = ""
@@ -79,10 +80,13 @@ title = "{get_md_title(cite)}"
 def cite2filename(cite):
     return get_bibtex_id(cite) + ".md"
 
-if (not os.path.exists("output")):
-    os.mkdir("output")
+with open(sys.argv[1],"r+") as file:
+    print(f"processing {sys.argv[1]}...")
+    data = json.load(file)
+    if (not os.path.exists("output")):
+        os.mkdir("output")
 
-for cite in data:
-    filename = cite2filename(cite)
-    with open(f"output/{filename}","w") as f:
-        f.write(cite2md(cite))
+    for cite in data:
+        filename = cite2filename(cite)
+        with open(f"output/{filename}","w") as f:
+            f.write(cite2md(cite))
