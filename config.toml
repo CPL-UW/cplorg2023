@@ -20,11 +20,11 @@ palette = "eighties"
 
 
 [menu]
-    [[menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about/"
-        weight = 10
+#    [[menu.main]]
+#        identifier = "about"
+#        name = "About"
+#        url = "/about/"
+#        weight = 10
 
     [[menu.main]]
         identifier = "papers"
@@ -50,11 +50,11 @@ palette = "eighties"
         url = "/book/"
         weight = 40
 
-    [[menu.main]]
-        identifier = "apply"
-        name = "Apply"
-        url = "/apply/"
-        weight = 50
+#    [[menu.main]]
+#        identifier = "apply"
+#        name = "Apply"
+#        url = "/apply/"
+#        weight = 50
 
 
 [taxonomies]
