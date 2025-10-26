@@ -1,5 +1,6 @@
 # Hugo default output directory
 /archive
+/temp
 
 ## OS Files
 # Windows
