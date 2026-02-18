@@ -3,7 +3,7 @@ title:     "Learning as Participation at the Annual Meeting of the International
 endnote:   "Colin Hennessey Elliott and Peter J. Woods. <b>Learning as Participation at the Annual Meeting of the International Society of the Learning Sciences</b>. In <i>Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2025</i>, 2130–2134. Helsinki, Finland, June 2025. International Society of the Learning Sciences. "
 pub_type:  "inproceedings"
 author:    "Hennessey Elliott, Colin; Woods, Peter J."
-booktitle: "Proceedings of the 18th {International} {Conference} of the {Learning} {Sciences} - {ICLS} 2025"
+journal: "Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2025"
 year:      "2025"
 date:      "2025-01-01"
 ---

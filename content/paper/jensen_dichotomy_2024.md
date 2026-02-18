@@ -1,9 +1,10 @@
 ---
 title:     "A Dichotomy of Demonstrated vs. Perceived Knowledge in Computer Security"
 endnote:   "Michelle Jensen. <b>A Dichotomy of Demonstrated vs. Perceived Knowledge in Computer Security</b>. In <i>Proceedings of the 18th International Conference of the Learning Sciences-ICLS 2024, pp. 2211-2212</i>. International Society of the Learning Sciences, 2024. doi:https://doi.org/10.22318/icls2024.778426."
+link:	"https://doi.org/10.22318/icls2024.778426"
 pub_type:  "inproceedings"
 author:    "Jensen, Michelle"
-booktitle: "Proceedings of the 18th {International} {Conference} of the {Learning} {Sciences}-{ICLS} 2024, pp. 2211-2212"
+journal: "Proceedings of the 18th International Conference of the Learning Sciences-ICLS 2024"
 year:      "2024"
 date:      "2024-01-01"
 ---

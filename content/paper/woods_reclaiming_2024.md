@@ -1,6 +1,7 @@
 ---
 title:     "Reclaiming the right to look: making the case for critical visual literacy and data science education"
 endnote:   "Peter J. Woods, Camillia Matuk, Kayla DesPortes, Ralph Vacca, Marian Tes, Veena Vasudevan, and Anna Amato. <b>Reclaiming the right to look: making the case for critical visual literacy and data science education</b>. <i>Critical Studies in Education</i>, 65(5):441–459, October 2024. _eprint: https://doi.org/10.1080/17508487.2023.2298198. "
+link: "https://doi.org/10.1080/17508487.2023.2298198"
 pub_type:  "article"
 author:    "Woods, Peter J.; Matuk, Camillia; DesPortes, Kayla; Vacca, Ralph; Tes, Marian; Vasudevan, Veena; Amato, Anna"
 journal:   "Critical Studies in Education"

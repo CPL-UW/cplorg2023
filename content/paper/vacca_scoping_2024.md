@@ -3,7 +3,7 @@ title:     "Scoping the Terrain of Data Stories in the Social Media Wild"
 endnote:   "Ralph Vacca, Camillia Matuk, Peter J. Woods, Kayla DesPortes, Anna Amato, and Megan Silander. <b>Scoping the Terrain of Data Stories in the Social Media Wild</b>. In <i>Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024</i>, 1786–1789. Buffalo, NY, 2024. International Society of the Learning Sciences. "
 pub_type:  "inproceedings"
 author:    "Vacca, Ralph; Matuk, Camillia; Woods, Peter J.; DesPortes, Kayla; Amato, Anna; Silander, Megan"
-booktitle: "Proceedings of the 18th {International} {Conference} of the {Learning} {Sciences} - {ICLS} 2024"
+journal: "Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2024"
 year:      "2024"
 date:      "2024-01-01"
 ---

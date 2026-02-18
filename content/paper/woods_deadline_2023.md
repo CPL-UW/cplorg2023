@@ -3,7 +3,7 @@ title:     "Deadline Extensions as Public Pedagogy: Envisioning the Ethics of Ca
 endnote:   "Peter J. Woods and Colin Hennessey Elliott. <b>Deadline Extensions as Public Pedagogy: Envisioning the Ethics of Care in Academic Conferences</b>. In <i>Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023</i>, 2153–2154. Montreal, 2023. International Society of the Learning Sciences. "
 pub_type:  "inproceedings"
 author:    "Woods, Peter J.; Hennessey Elliott, Colin"
-booktitle: "Proceedings of the 17th {International} {Conference} of the {Learning} {Sciences} - {ICLS} 2023"
+journal: "Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023"
 year:      "2023"
 date:      "2023-01-01"
 ---

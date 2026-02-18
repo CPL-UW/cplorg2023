@@ -3,7 +3,7 @@ title:     "Mapping a School-based Ecology of Learning In and Through Music"
 endnote:   "Peter J. Woods. <b>Mapping a School-based Ecology of Learning In and Through Music</b>. In <i>Proceedings of the 2024 Annual Meeting of the International Society of the Learning Sciences</i>, 1275–1278. University of Buffalo, 2024. ISLS. Publisher: International Society of the Learning Sciences. "
 pub_type:  "inproceedings"
 author:    "Woods, Peter J."
-booktitle: "Proceedings of the 2024 {Annual} {Meeting} of the {International} {Society} of the {Learning} {Sciences}"
+journal: "Proceedings of the 2024 Annual Meeting of the International Society of the Learning Sciences - ICLS 2024"
 year:      "2024"
 date:      "2024-01-01"
 ---

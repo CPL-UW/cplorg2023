@@ -2,8 +2,10 @@
 title:     "Learning Through Noise"
 endnote:   "Peter J. Woods. <b>Learning Through Noise</b>. Palgrave Macmillan, 2025. ISBN 978-3-032-11018-3 978-3-032-11019-0. "
 pub_type:  "book"
+year: "2025"
 author:    "Woods, Peter J."
 date:      "2025-01-01"
+link: "https://link.springer.com/10.1007/978-3-032-11019-0"
 ---
 
 ## Abstract

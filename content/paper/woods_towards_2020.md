@@ -3,7 +3,7 @@ title:     "Towards a Noisier Constructionism: Reimagining Experimental Music as
 endnote:   "Peter J. Woods. <b>Towards a Noisier Constructionism: Reimagining Experimental Music as Learning Context</b>. In <i>Constructionism 2020: Exploring, Testing and Extending our Understanding of Constructionism conference proceedings</i>, 528–536. Trinity College, Dublin, Ireland, May 2020."
 pub_type:  "inproceedings"
 author:    "Woods, Peter J."
-booktitle: "Constructionism 2020: {Exploring}, {Testing} and {Extending} our {Understanding} of {Constructionism} conference proceedings"
+journal: "Constructionism 2020"
 year:      "2020"
 date:      "2020-01-01"
 ---

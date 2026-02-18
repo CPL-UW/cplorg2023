@@ -1,6 +1,7 @@
 ---
 title:     "Players chatter and dice clatter: exploring sonic power relations in posthuman game-based learning ecologies"
 endnote:   "Peter J. Woods and Karis Jones. <b>Players chatter and dice clatter: exploring sonic power relations in posthuman game-based learning ecologies</b>. <i>Discourse: Studies in the Cultural Politics of Education</i>, 44(5):754–767, September 2023. _eprint: https://doi.org/10.1080/01596306.2022.2140124. "
+link: "https://doi.org/10.1080/01596306.2022.2140124"
 pub_type:  "article"
 author:    "Woods, Peter J.; Jones, Karis"
 journal:   "Discourse: Studies in the Cultural Politics of Education"

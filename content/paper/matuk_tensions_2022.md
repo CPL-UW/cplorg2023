@@ -1,6 +1,7 @@
 ---
 title:     "Tensions and synergies in arts-integrated data literacy instruction: Reflections on four classroom implementations"
 endnote:   "Camillia Matuk, Kayla DesPortes, Anna Amato, Ralph Vacca, Megan Silander, Peter J. Woods, and Marian Tes. <b>Tensions and synergies in arts-integrated data literacy instruction: Reflections on four classroom implementations</b>. <i>British Journal of Educational Technology</i>, 53(5):1159–1178, 2022. _eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjet.13257. "
+link: "https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjet.13257"
 pub_type:  "article"
 author:    "Matuk, Camillia; DesPortes, Kayla; Amato, Anna; Vacca, Ralph; Silander, Megan; Woods, Peter J.; Tes, Marian"
 journal:   "British Journal of Educational Technology"

@@ -9,7 +9,7 @@
                     <span class="paper__author">{{ .Params.author}}</span>
                     <span class="paper__year">({{ .Params.year}}).</span>
                     {{ if (isset .Params "link")}} <a href="{{.Params.link}}" class="paper"> {{ end }}
-                    {{ .Title | markdownify }}
+                    {{ .Title | markdownify }}.
                     {{ if (isset .Params "link")}} </a> {{ end }}
                     <span class="paper__journal">{{ .Params.journal}}</span>
                     {{$s := printf "%s %s %s" .Title .Params.year .Params.author}}

@@ -3,7 +3,7 @@ title:     "Do CS Undergraduates Show Evidence of a Security Mindset without For
 endnote:   "Michelle Jensen, Matthew Berland, and Rahul Chatterjee. <b>Do CS Undergraduates Show Evidence of a Security Mindset without Formal Coursework? An Exploratory Qualitative Study</b>. In <i>Proceedings of the 2025 ACM Conference on International Computing Education Research V.1</i>, ICER '25, 16–26. New York, NY, USA, 2025. Association for Computing Machinery. "
 pub_type:  "inproceedings"
 author:    "Jensen, Michelle; Berland, Matthew; Chatterjee, Rahul"
-booktitle: "Proceedings of the 2025 {ACM} {Conference} on {International} {Computing} {Education} {Research} {V}.1"
+journal: "Proceedings of the 2025 ACM Conference on International Computing Education Research"
 year:      "2025"
 date:      "2025-01-01"
 ---

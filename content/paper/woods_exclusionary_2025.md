@@ -3,7 +3,7 @@ title:     "Exclusionary and Emancipatory Learning Praxes of Gender Nonconformin
 endnote:   "Peter J. Woods. <b>Exclusionary and Emancipatory Learning Praxes of Gender Nonconforming Noise Musicians</b>. In <i>Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2025</i>, 74–82. Helsinki, Finland, June 2025. International Society of the Learning Sciences. "
 pub_type:  "inproceedings"
 author:    "Woods, Peter J."
-booktitle: "Proceedings of the 18th {International} {Conference} of the {Learning} {Sciences} - {ICLS} 2025"
+journal: "Proceedings of the 18th International Conference of the Learning Sciences - ICLS 2025"
 year:      "2025"
 date:      "2025-01-01"
 ---
