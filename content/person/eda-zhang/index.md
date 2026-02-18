@@ -6,5 +6,4 @@ tags = []
 title = "eda zhang"
 image = "headshot.jpg"
 topics = []
-url_person = "https://www.edazhangruting.com/"
 +++
